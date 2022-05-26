@@ -13,7 +13,7 @@ Avvia la ricerca
 * `/home/andromeda/jchainz` the PROJECT_HOME: the absolute path of the root of the repository
 * `100` number of max chainz to be found each entry point
 * `7200` max seconds of search for each entry point 
-
+* `true` means chains entry point has to be a readObject method
 ```
 nohup java -cp ./ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.ChainzFinderRunnerMain 2 8 8 true java.lang.reflect.Method.invoke /home/andromeda/jchainz 100 7200 true > ~/ChainzFinder.txt  &
 ```
@@ -24,5 +24,5 @@ nohup java -cp ./ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.Chai
 # Run ChainzFinder on a single entry/exit point (example)
 
 ```
-java -jar ./target/ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar PROJECT_HOME/ChainzFinder/target_jars/commons-collections4-4.2.jar org.apache.commons.collections4.bag.HashBag.readObject:java.lang.reflect.Method.invoke 8 true PROJECT_HOME 100 7200
+java -jar ./target/ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar PROJECT_HOME/ChainzFinder/target_jars/commons-collections4-4.2.jar org.apache.commons.collections4.bag.HashBag.readObject:java.lang.reflect.Method.invoke 8 true PROJECT_HOME 100 7200 true
 ```
