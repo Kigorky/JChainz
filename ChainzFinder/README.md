@@ -15,7 +15,7 @@ Avvia la ricerca
 * `7200` max seconds of search for each entry point 
 
 ```
-nohup java -cp ./ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.ChainzFinderRunnerMain 2 8 8 true java.lang.reflect.Method.invoke /home/andromeda/jchainz 100 7200 > ~/ChainzFinder.txt  &
+nohup java -cp ./ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.ChainzFinderRunnerMain 2 8 8 true java.lang.reflect.Method.invoke /home/andromeda/jchainz 100 7200 true > ~/ChainzFinder.txt  &
 ```
 
 `PROJECT_HOME/ChainzFinder/target_jars` contains the jars used by the ChainzFinder
