@@ -1,0 +1,17 @@
+invoke:498, Method (java.lang.reflect)
+invoke:161, MemberBox (org.mozilla.javascript)
+get:118, JavaMembers (org.mozilla.javascript)
+get:113, NativeJavaObject (org.mozilla.javascript)
+get:99, NativeJavaArray (org.mozilla.javascript)
+getProperty:1617, ScriptableObject (org.mozilla.javascript)
+getObjectFunctionNames:290, JavaAdapter (org.mozilla.javascript)
+getAdapterClass:311, JavaAdapter (org.mozilla.javascript)
+readAdapterObject:262, JavaAdapter (org.mozilla.javascript)
+invoke0:-1, NativeMethodAccessorImpl (sun.reflect)
+invoke:62, NativeMethodAccessorImpl (sun.reflect)
+invoke:43, DelegatingMethodAccessorImpl (sun.reflect)
+invoke:498, Method (java.lang.reflect)
+readObject:940, NativeJavaObject (org.mozilla.javascript)
+
+
+native

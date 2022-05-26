@@ -1,0 +1,4 @@
+javax.management.BadAttributeValueExpException: void readObject(java.io.ObjectInputStream) ==> com.vaadin.data.util.PropertysetItem: java.lang.String toString() ==> com.vaadin.data.util.NestedMethodProperty: java.lang.Object getValue() ==> java.lang.reflect.Method: java.lang.Object invoke(java.lang.Object,java.lang.Object[])
+
+
+f*ckin exploitable

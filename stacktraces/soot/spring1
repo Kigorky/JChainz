@@ -1,0 +1,18 @@
+
+SerializableTypeWrapper.TypeProvider(Proxy).getType()
+AnnotationInvocationHandler.invoke()
+HashMap.get()
+ReflectionUtils.findMethod()
+SerializableTypeWrapper.TypeProvider(Proxy).getType()
+AnnotationInvocationHandler.invoke()
+HashMap.get()
+ReflectionUtils.invokeMethod()
+Method.invoke()
+
+
+
+org.springframework.core.SerializableTypeWrapper$MethodInvokeTypeProvider: void readObject() ==> 
+org.springframework.core.SerializableTypeWrapper$TypeProvider: void readObject() ==> 
+
+
+proxy

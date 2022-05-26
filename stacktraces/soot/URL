@@ -1,0 +1,1 @@
+java.util.HashMap: void readObject(java.io.ObjectInputStream) ==> java.util.HashMap: int hash(java.lang.Object) ==> java.net.URL: int hashCode()
