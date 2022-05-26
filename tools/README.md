@@ -1,6 +1,6 @@
 # How to generate statistics for jars info
 
-Run the decompiler first from inside the decopiler folder
+Run the decompiler first from inside the decompiler folder
 
 Automatically generates Entry Point file
 
