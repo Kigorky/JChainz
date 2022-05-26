@@ -1,0 +1,55 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/ConcurrencyThrottleSupport.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/ResolvableType.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/AttributeAccessorSupport.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/SerializableTypeWrapper.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/task/SyncTaskExecutor.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/convert/TypeDescriptor.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/ConcurrencyThrottleSupport.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/MimeType.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/CustomizableThreadCreator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/AutoPopulatingList.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/CollectionUtils.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/LinkedMultiValueMap.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/comparator/BooleanComparator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/comparator/CompoundComparator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/comparator/InvertibleComparator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/proxy/Proxy.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/SerializableTypeWrapper.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/annotation/AnnotationUtils.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/io/VfsUtils.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/convert/support/GenericConversionService.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/core/convert/support/ObjectToObjectConverter.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/MethodInvoker.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/util/ReflectionUtils.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/reflect/FastClass.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/reflect/FastClassEmitter.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/reflect/MethodDelegate.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/reflect/FastMethod.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/core/ReflectUtils.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/beans/BeanCopier.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/beans/BulkBeanEmitter.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/beans/ImmutableBean.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/beans/BeanMapEmitter.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/transform/impl/AddStaticInitTransformer.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/transform/impl/AddInitTransformer.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/proxy/MethodProxy.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/proxy/Enhancer.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/cglib/proxy/MixinEmitter.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/basic/ObjectStreamClassInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/gcj/GCJInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/gcj/GCJSerializationInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/android/Android17Instantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/android/Android10Instantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/android/AndroidSerializationInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/android/Android18Instantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/perc/PercInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/perc/PercSerializationInstantiator.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/sun/SunReflectionFactoryHelper.java
+	[+] ./output/ysoserial//spring-core-4.1.4.RELEASE.jar/org/springframework/objenesis/instantiator/jrockit/JRockitLegacyInstantiator.java

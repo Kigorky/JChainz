@@ -1,0 +1,15 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/Pair.java
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/util/IntKeyMap.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/Marshalling.java
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/Pair.java
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/TraceInformation.java
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/util/IntKeyMap.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/reflect/SerializableClass.java
+	[+] ./output/ysoserial//jboss-marshalling-1.4.10.Final.jar/org/jboss/marshalling/cloner/CloneableCloner.java

@@ -1,0 +1,39 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/xsltc/trax/TemplatesImpl.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xpath/Expression.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xpath/XPath.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xpath/axes/IteratorPool.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/QName.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/NameSpace.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/SerializableLocatorImpl.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/URI.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/StringVector.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/NodeVector.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/utils/ObjectPool.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/bcel/generic/Instruction.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/bcel/generic/InstructionHandle.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/bcel/generic/InstructionList.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/bcel/verifier/structurals/GenericArray.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/xsltc/trax/TemplatesImpl.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/templates/XMLNSDecl.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/templates/AVTPart.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/templates/AVT.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/templates/TemplateSubPatternAssociation.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/templates/TemplateList.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xpath/XPathContext.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/dtm/DTMException.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xml/dtm/ref/IncrementalSAXSource_Xerces.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/bcel/util/JavaWrapper.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/processor/XSLTAttributeDef.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/xslt/EnvironmentCheck.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/lib/Extensions.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/lib/sql/JNDIConnectionPool.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/extensions/ExtensionHandlerGeneral.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/extensions/ExtensionHandlerJavaPackage.java
+	[+] ./output/ysoserial//xalan-2.7.2.jar/org/apache/xalan/extensions/ExtensionHandlerJavaClass.java

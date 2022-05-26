@@ -1,0 +1,46 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/IntroductionInfoSupport.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/TrueClassFilter.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/TruePointcut.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/TrueMethodMatcher.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/JdkDynamicAopProxy.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/ProxyFactoryBean.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/DefaultAdvisorChainFactory.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/DefaultAopProxyFactory.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/ProxyConfig.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/CglibAopProxy.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/AfterReturningAdviceAdapter.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/ThrowsAdviceAdapter.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/AfterReturningAdviceInterceptor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/MethodBeforeAdviceAdapter.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/MethodBeforeAdviceInterceptor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/interceptor/AbstractTraceInterceptor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/interceptor/ExposeInvocationInterceptor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/IntroductionInfoSupport.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/ControlFlowPointcut.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/ClassFilters.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/ComposablePointcut.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/DefaultIntroductionAdvisor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/AbstractPointcutAdvisor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/RootClassFilter.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/RegexpMethodPointcutAdvisor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/MethodMatchers.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/AbstractExpressionPointcut.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/target/SingletonTargetSource.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/target/AbstractBeanFactoryBasedTargetSource.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/target/EmptyTargetSource.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/target/HotSwappableTargetSource.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/scope/DefaultScopedObject.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/ReflectiveMethodInvocation.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/CglibAopProxy.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/framework/adapter/ThrowsAdviceInterceptor.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/aspectj/AbstractAspectJAdvice.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory.java
+	[+] ./output/ysoserial//spring-aop-4.1.4.RELEASE.jar/org/springframework/aop/support/AopUtils.java

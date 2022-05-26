@@ -1,0 +1,62 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/exceptions/Reporter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/proxy/Proxy.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/exceptions/stacktrace/StackTraceFilter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/exceptions/stacktrace/ConditionalStackTraceFilter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/verification/DefaultRegisteredInvocations.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/verification/SingleRegisteredInvocation.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/creation/settings/CreationSettings.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/creation/cglib/SerializableMockitoMethodProxy.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/creation/cglib/SerializableNoOp.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/creation/cglib/MethodInterceptorFilter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/creation/cglib/AcrossJVMSerializationFeature.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/configuration/GlobalConfiguration.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/matchers/LocalizedMatcher.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/util/MockNameImpl.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/util/ObjectMethodsGuru.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/SerializableMethod.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/InvocationMatcher.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/MatchersBinder.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/StubInfoImpl.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/realmethod/DefaultRealMethod.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/realmethod/CleanTraceRealMethod.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/debugging/LocationImpl.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/progress/ThreadSafeMockingProgress.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/InvocationContainerImpl.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ReturnsMocks.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/GloballyConfiguredAnswer.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ReturnsMoreEmptyValues.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/CallsRealMethods.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/DoesNothing.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/ReturnsArgumentAt.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/ThrowsException.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/AnswerReturnValuesAdapter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/Returns.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/answers/ThrowsExceptionClass.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/reflect/FastClass.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/reflect/FastClassEmitter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/reflect/MethodDelegate.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/reflect/FastMethod.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/core/ReflectUtils.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/beans/BeanCopier.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/beans/BulkBeanEmitter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/beans/ImmutableBean.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/beans/BeanMapEmitter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/transform/impl/AddStaticInitTransformer.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/transform/impl/AddInitTransformer.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/proxy/MethodProxy.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/proxy/Enhancer.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/cglib/proxy/MixinEmitter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/util/reflection/BeanPropertySetter.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/invocation/InvocationImpl.java
+	[+] ./output/ysoserial//mockito-core-1.10.19.jar/org/mockito/internal/stubbing/defaultanswers/ForwardsInvocations.java

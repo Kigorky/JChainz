@@ -1,0 +1,9 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//jackson-core-asl-1.9.2.jar/org/codehaus/jackson/JsonLocation.java
+	[+] ./output/ysoserial//jackson-core-asl-1.9.2.jar/org/codehaus/jackson/io/SerializedString.java
+
+
+[+] Reflection classes: 

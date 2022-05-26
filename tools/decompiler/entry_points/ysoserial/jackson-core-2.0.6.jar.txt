@@ -1,0 +1,9 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//jackson-core-2.0.6.jar/com/fasterxml/jackson/core/JsonLocation.java
+	[+] ./output/ysoserial//jackson-core-2.0.6.jar/com/fasterxml/jackson/core/io/SerializedString.java
+
+
+[+] Reflection classes: 

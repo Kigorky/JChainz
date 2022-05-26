@@ -1,0 +1,19 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/JsonMappingException.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/util/JSONWrappedObject.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/util/JSONPObject.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/deser/SettableBeanProperty.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/deser/SettableAnyProperty.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/deser/std/EnumDeserializer.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/deser/std/StdKeyDeserializer.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/introspect/AnnotatedMethod.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/ser/AnyGetterWriter.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/ser/PropertyBuilder.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/ser/BeanPropertyWriter.java
+	[+] ./output/ysoserial//jackson-mapper-asl-1.9.2.jar/org/codehaus/jackson/map/ser/std/JsonValueSerializer.java

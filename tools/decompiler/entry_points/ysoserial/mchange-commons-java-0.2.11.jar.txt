@@ -1,0 +1,54 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v1/db/sql/DriverManagerDataSource.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedFloatHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedByteHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedDoubleHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedShortHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileByteHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileBooleanHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedBooleanHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileCharHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedCharHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileShortHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedLongHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/ChangeNotifyingSynchronizedIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileFloatHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/rmi/RMIRegistryCallingCard.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v1/db/sql/DriverManagerDataSource.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedFloatHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedByteHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedDoubleHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedShortHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileByteHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileBooleanHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedBooleanHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileCharHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedCharHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileShortHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/SynchronizedLongHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/ChangeNotifyingSynchronizedIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileIntHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/holders/VolatileFloatHolder.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/rmi/RMIRegistryCallingCard.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v1/lang/Synchronizer.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v1/cachedstore/CachedStoreFactory.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v1/cachedstore/SoftSetFactory.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/async/ThreadPoolAsynchronousRunner.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/codegen/intfc/DelegatorGenerator.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/reflect/ForwardingInvocationHandler.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/lang/ThreadUtils.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/util/CollectionUtils.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/beans/BeansUtils.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/beans/swing/PropertyComponentBindingUtility.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/naming/JavaBeanReferenceMaker.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/naming/JavaBeanObjectFactory.java
+	[+] ./output/ysoserial//mchange-commons-java-0.2.11.jar/com/mchange/v2/log/MLogConfig.java

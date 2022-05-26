@@ -1,0 +1,11 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//httpcore-4.0.1.jar/org/apache/http/HttpHost.java
+	[+] ./output/ysoserial//httpcore-4.0.1.jar/org/apache/http/ProtocolVersion.java
+	[+] ./output/ysoserial//httpcore-4.0.1.jar/org/apache/http/message/BasicNameValuePair.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//httpcore-4.0.1.jar/org/apache/http/util/ExceptionUtils.java

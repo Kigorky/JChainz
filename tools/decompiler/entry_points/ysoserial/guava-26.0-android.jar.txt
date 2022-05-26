@@ -1,0 +1,64 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/util/concurrent/AtomicDoubleArray.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/cache/LocalCache.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/math/PairedStats.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/math/Stats.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/net/HostAndPort.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Functions.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Predicates.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Equivalence.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Suppliers.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Optional.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/MutableClassToInstanceMap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMultiset.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMapValues.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/RangeGwtSerializationDependencies.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/Cut.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMapKeySet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/RegularContiguousSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableAsList.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/EmptyContiguousSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableEnumMap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/Count.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/MultimapBuilder.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/Synchronized.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableSortedMultiset.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableTable.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableEnumSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableRangeSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMapEntrySet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/HashBasedTable.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableMultimap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/TreeBasedTable.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/GeneralRange.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableSortedSet.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableRangeMap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/ImmutableList.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/collect/RegularImmutableMultiset.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/reflect/Types.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/util/concurrent/AtomicLongMap.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/util/concurrent/AtomicDoubleArray.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/hash/Funnels.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/hash/MessageDigestHashFunction.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/hash/BloomFilter.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/cache/LocalCache.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/primitives/ImmutableDoubleArray.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/primitives/ImmutableLongArray.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/primitives/ImmutableIntArray.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/FinalizableReferenceQueue.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/Throwables.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/base/internal/Finalizer.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/reflect/Invokable.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/reflect/Types.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/util/concurrent/SimpleTimeLimiter.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/util/concurrent/MoreExecutors.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/eventbus/Subscriber.java
+	[+] ./output/ysoserial//guava-26.0-android.jar/com/google/common/io/Closer.java

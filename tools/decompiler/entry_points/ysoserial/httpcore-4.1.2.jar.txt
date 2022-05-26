@@ -1,0 +1,18 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/HttpHost.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/ProtocolVersion.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/BasicStatusLine.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/BufferedHeader.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/HeaderGroup.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/BasicRequestLine.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/BasicHeader.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/message/BasicNameValuePair.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/util/ByteArrayBuffer.java
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/util/CharArrayBuffer.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//httpcore-4.1.2.jar/org/apache/http/util/ExceptionUtils.java

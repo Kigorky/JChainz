@@ -1,0 +1,9 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//shrinkwrap-impl-base-1.2.6.jar/org/jboss/shrinkwrap/impl/base/serialization/ZipSerializableViewImpl.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//shrinkwrap-impl-base-1.2.6.jar/org/jboss/shrinkwrap/impl/base/serialization/ZipSerializableViewImpl.java
+
+
+[+] Reflection classes: 

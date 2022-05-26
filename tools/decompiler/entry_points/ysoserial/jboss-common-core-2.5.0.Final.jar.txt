@@ -1,0 +1,30 @@
+[+] Entry points classes: 
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/RMIMultiSocketClient.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/DefaultClientSocketFactory.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/TimeoutServerSocketFactory.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/TimeoutClientSocketFactory.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/StopWatch.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/Null.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/HashCode.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/JBossStringBuilder.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/Counter.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/LongCounter.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/platform/PID.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/LazyList.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/LazySet.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/CompoundKey.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/ArrayIterator.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/ConcurrentReferenceHashMap.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/collection/LazyMap.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/threadpool/BlockingMode.java
+
+
+[+] Reflection classes: 
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/RMIMultiSocketClient.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/net/sockets/RMIMultiSocketHandler.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/Classes.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/propertyeditor/PropertyEditors.java
+	[+] ./output/ysoserial//jboss-common-core-2.5.0.Final.jar/org/jboss/util/property/MethodBoundPropertyListener.java
