@@ -1,0 +1,1 @@
+nohup bash -c 'time java -cp target/ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.ChainzFinderRunnerMain 2 10 8 true java.lang.reflect.Method.invoke /home/andromeda/jchainz 100 10800 true' > ~/ChainzFinderOutput27-10.txt &
