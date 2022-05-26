@@ -1,0 +1,28 @@
+[+] Entry points classes: 
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/Collections.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/CopyOnWriteArrayList.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/Semaphore.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/locks/ReentrantReadWriteLock.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/locks/ReentrantLock.java
+
+
+[+] Chainable classes: 
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/TreeMap.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/Collections.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/TimeUnit.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/ConcurrentLinkedQueue.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/CopyOnWriteArrayList.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/LinkedBlockingQueue.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/SynchronousQueue.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/Semaphore.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/atomic/AtomicLongArray.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/atomic/AtomicIntegerArray.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/atomic/AtomicBoolean.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/atomic/AtomicReference.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/atomic/AtomicReferenceArray.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/locks/ReentrantReadWriteLock.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/locks/ReentrantLock.java
+	[+] ./output/ysoserial//backport-util-concurrent-3.1.jar/edu/emory/mathcs/backport/java/util/concurrent/locks/CondVar.java
+
+
+[+] Reflection classes: 
