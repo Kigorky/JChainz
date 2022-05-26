@@ -21,7 +21,7 @@ nohup java -cp ./ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar chainz.Chai
 `PROJECT_HOME/ChainzFinder/target_jars` contains the jars used by the ChainzFinder
 
 
-###Run ChainzFinder on a single entry/exit point (example)
+# Run ChainzFinder on a single entry/exit point (example)
 
 ```
 java -jar ./target/ChainzFinder-1.0-SNAPSHOT-jar-with-dependencies.jar PROJECT_HOME/ChainzFinder/target_jars/commons-collections4-4.2.jar org.apache.commons.collections4.bag.HashBag.readObject:java.lang.reflect.Method.invoke 8 true PROJECT_HOME 100 7200
