@@ -2,19 +2,18 @@
 
 # JChainz organization
 
-```
 
-ChainzFinder
+- ChainzFinder
 
-ChainzAnalyzer
+- ChainzAnalyzer
 
-libraries: dataset of jars used for analysis
-
-
-stacktraces: stacktraces of ysoserial chains
+- libraries: dataset of jars used for analysis
 
 
-tools: various tools
+- stacktraces: stacktraces of ysoserial chains
 
-``` 
-Please refer to specific folder for more information
+
+- tools: various tools
+
+
+**Please refer to specific folder for more information**
